@@ -8,8 +8,11 @@
 ### Technologies I am using
 
   Programming Languages: HTML, CSS, JavaScript
+  
   Frameworks and Libraries: Bootstrap, jQuery, Axios, Express, EJS, Mongoose
+  
   Database: MongoDB
+  
   Tools: Node, NPM, Postman, Git, GitHub, Visual Studio Code, Emmet, SASS
 
 
