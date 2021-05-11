@@ -7,11 +7,11 @@
 
 ### Technologies I am using
 
-  Programming Languages: HTML, CSS, JavaScript
+  Programming Languages: HTML, CSS, JavaScript, Python
   
-  Frameworks and Libraries: Bootstrap, jQuery, Axios, Express, EJS, Mongoose
+  Frameworks and Libraries: React,Bootstrap, jQuery, Axios, Express, EJS, Mongoose, Flask, PeeWee
   
-  Database: MongoDB
+  Database: MongoDB, PostgreSQL
   
   Tools: Node, NPM, Postman, Git, GitHub, Visual Studio Code, Emmet, SASS
 
