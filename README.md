@@ -9,7 +9,7 @@
 
   Programming Languages: HTML, CSS, JavaScript, Python
   
-  Frameworks and Libraries: React,Bootstrap, jQuery, Axios, Express, EJS, Mongoose, Flask, PeeWee
+  Frameworks and Libraries: NEXT.js, React,Bootstrap, jQuery, Axios, Express, EJS, Mongoose, Flask, PeeWee
   
   Database: MongoDB, PostgreSQL
   
