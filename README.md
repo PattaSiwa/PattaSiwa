@@ -7,9 +7,9 @@
 
 ### Technologies I am using
 
-  Programming Languages: HTML, CSS, JavaScript, Python
+  Programming Languages: HTML, CSS, TypeScript, JavaScript, Python
   
-  Frameworks and Libraries: NEXT.js, React, Bootstrap, Framer Motion, jQuery, Axios, Express, EJS, Mongoose, Flask, PeeWee
+  Frameworks and Libraries: NEXT.js, React Native, Tailwind CSS, React, Bootstrap, Framer Motion, jQuery, Axios, Express, EJS, Mongoose, Flask, PeeWee
   
   Database: MongoDB, PostgreSQL
   
