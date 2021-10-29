@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Pattarapon Siwapornchai @pattasiwa
 
-  I am a Full-Stack Software Engineering student with a background in Psychology and Sociology. 
+  I am a Full-Stack Software Engineer with a background in Psychology and Sociology. 
   I utilize my knowledge of cognitive and social learning theories to my applications to improve the user experience. 
   I strive to leverage the latest technology to create applications that maximize accessibility to promote inclusiveness and a mindful 
   relationship between ourselves and the technology we use. 
